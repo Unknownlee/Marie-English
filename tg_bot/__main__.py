@@ -20,16 +20,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hola🙈 {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I am a group manager bot.
+I am a group manager bot🧑‍💼.
 
-My Creator @DeepakV111 & My Group @movieszzzone.
+My Creator 🧑‍💻 @DeepakV111 & My Group @movieszzzone.
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/SeriesZone101/Marie-2.0-English),
-you can create clone same like me..
+you can create clone same like me.. 
 
 For more commands click /help
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**Thank You**
 
 """
 
