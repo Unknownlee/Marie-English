@@ -24,7 +24,7 @@ I am a group manager bot🧑‍💼.
 
 My Creator 🧑‍💻 @DeepakV111 & My Group @movieszzzone.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://t.me/DeepakV111),
+This is my [Deploy Code](https://t.me/DeepakV111),
 you can create clone same like me.. 
 
 For more commands click /help
