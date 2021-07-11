@@ -22,7 +22,7 @@ Hola🙈 {}, my name is {}! if you have any questions about how to use me please
 
 I am a group manager bot🧑‍💼.
 
-My Creator 🧑‍💻 @DeepakV111 & My Group @movieszzzone.
+My Developer 🧑‍💻 @DeepakV111 .For Feedback and queries contact my Dev🧑‍💻.
 
 This is my [Deploy Code](https://t.me/DeepakV111),
 you can create clone same like me.. 
