@@ -22,9 +22,9 @@ Hola🙈 {}, my name is {}! if you have any questions about how to use me please
 
 I am a group manager bot🧑‍💼.
 
-My Developer 🧑‍💻 @DeepakV111 .For Feedback and queries contact my Dev🧑‍💻.
+My Developer 🧑‍💻 @DeepakV1111_bot .For Feedback and queries contact my Dev🧑‍💻.
 
-This is my [Deploy Code](https://t.me/DeepakV111),
+This is my [Deploy Code](https://t.me/sourcecodeveno),
 you can create clone same like me.. 
 
 For more commands click /help
